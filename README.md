@@ -1,4 +1,4 @@
-# Web Development Lab
+# Frontend Craft
 
 Bienvenido a mi laboratorio de aprendizaje web. En este repositorio voy documentando mi progreso y práctica constante en HTML5, CSS3 y JavaScript, construyendo proyectos que van desde conceptos fundamentales hasta aplicaciones web dinámicas e interactivas.
 
